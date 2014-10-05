@@ -21,6 +21,7 @@
     <target name="run">
         <java jar="bin/jar/pavenger.jar" fork="true"/>
     </target>
+
     <target name="test">
 	<echo message = "This part should be updated later."/>
     </target>
